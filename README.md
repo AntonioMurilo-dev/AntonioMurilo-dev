@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Meu nome é Antônio Murilo, tenho 19 anos e sou natural do Morada Nova Ceará. Concluí o ensino médio na EEP Osmira Eduardo de Castro, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na UFC. Sou SOU fascinado por tecnologia e e programação. Veja meu perfil no linkedin "[Antônio Murilo](www.linkedin.com/in/antônio-murilo-490b56352)", onde compartilho minha trajetória no mundo da T.I e também meu Instagram, com o perfil chamado "[murilo.anjs](https://www.instagram.com/murilo.anjs/)".
+Meu nome é Antônio Murilo, tenho 19 anos e sou natural do Morada Nova Ceará. Concluí o ensino médio na EEP Osmira Eduardo de Castro, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na UFC. Sou fascinado por tecnologia e programação. Veja meu perfil no linkedin "[Antônio Murilo](www.linkedin.com/in/antônio-murilo-490b56352)", onde compartilho minha trajetória no mundo da T.I e também meu Instagram, com o perfil chamado "[murilo.anjs](https://www.instagram.com/murilo.anjs/)".
 
 
        
