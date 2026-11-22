@@ -44,7 +44,14 @@ Meu nome é Antônio Murilo, tenho 19 anos e sou natural do Morada Nova Ceará. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -55,13 +62,12 @@ Meu nome é Antônio Murilo, tenho 19 anos e sou natural do Morada Nova Ceará. 
 />
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt="" GitHub
+    title="GitHub"
     width="60px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-
 
 
 
